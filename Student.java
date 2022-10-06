@@ -56,7 +56,7 @@ public class Student {
 	}
 	
 	public String toString() {
-		return "Name="+name+"Age="+age+"Id="+id+"Section="+section+"isMale="+isMale;
+		return "Name="+name+"Age="+age+"Id="+id+"isMale="+isMale;
 	}
 	
 }
